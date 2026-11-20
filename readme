@@ -1,0 +1,38 @@
+# TiendaZapatillas
+
+Proyecto del módulo Desarrollo Web en Entorno Servidor (DAW).
+
+## Tecnologías utilizadas
+
+- PHP
+- MySQL / MariaDB
+- HTML5
+- CSS3
+- JavaScript
+- XAMPP
+
+## Instrucciones de instalación
+
+1. Instalar XAMPP.
+2. Descargar el código fuente del repositorio.
+3. Copiar la carpeta TiendaZapatillas en C:\xampp\htdocs\
+4. Iniciar Apache y MySQL desde XAMPP.
+5. Acceder a http://localhost/phpmyadmin/
+6. Crear una base de datos llamada tienda_zapatillas.
+7. Importar el archivo tienda_zapatillas.sql en dicha base de datos.
+8. Acceder a http://localhost/TiendaZapatillas/
+
+## Funcionalidades
+
+- RF01: Administración de usuarios.
+- RF02: Administración de productos.
+- RF03: Catálogo, carrito y proceso de compra.
+
+## Datos de acceso
+
+Las credenciales de las cuentas de demostración se encuentran
+en el apartado 4.6 de la memoria del proyecto.
+
+## Vídeos de demostración
+
+[Ver vídeos RF01, RF02 y RF03](https://drive.google.com/drive/folders/1b-4-Yn6FpmumMTDpfZktCNTxZi73qC4n?usp=drive_link)
